@@ -2,7 +2,8 @@
 #include<conio.h>
 void main()
 {
-int m,n,c,d, first[10][10],second[10][10],sum[10][10];
+clrscr();
+icnt m,n,c,d, first[10][10],second[10][10],sum[10][10];
 printf("enter the number of rows and columns of matrix\n");
 scanf("%d%d",&m,&n);
 printf("enter the element of the first matrix\n");
